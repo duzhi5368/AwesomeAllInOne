@@ -32,5 +32,6 @@ ___
 - Godot 资源大全
 - Unity 资源大全
 - Unreal 资源大全
+- AI绘画大全中文版
 ___
 [SOURCE](https://www.trackawesomelist.com/)
