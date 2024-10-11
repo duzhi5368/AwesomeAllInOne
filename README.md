@@ -1,6 +1,6 @@
 ﻿# 资料大全整理(Awesome - All in One)
 
-### 请参见 [WIKI](https://github.com/duzhi5368/AwesomeAllInOne/wiki)
+## 请参见 [WIKI](https://github.com/duzhi5368/AwesomeAllInOne/wiki)
 
 ___
 - 经典编程书籍大全
@@ -35,3 +35,7 @@ ___
 - AI绘画大全中文版
 ___
 [SOURCE](https://www.trackawesomelist.com/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=duzhi5368/AwesomeAllInOne&type=Date)](https://star-history.com/#duzhi5368/AwesomeAllInOne&Date)
